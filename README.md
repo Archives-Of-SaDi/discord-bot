@@ -1,4 +1,4 @@
-![Discord Logo](./assets/discord.png)
+<h1 align="center"><img width="300" src="./assets/discord.png" /></h1>
 
 # Discord bot Example
 
